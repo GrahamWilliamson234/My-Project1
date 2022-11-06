@@ -8,10 +8,22 @@ Hi! My name is Graham. In this README page were you will find out a little about
 
 When thinking of an idea for this project I had many idea's and options, as a history buff I choose the Royal House of Tudor as its covers some of my favourite Monarchs and storylines. I hope you enjoy.
 
-## Page Location
+## Project Location
 
-All my projects are also availabe to view on my portfolio web-page.
-[www.dazl.ie](http://www.dazl.ie)
+All my projects are also available to view on my portfolio website.
+[www.dazl.ie](http://project1.dazl.ie)
+
+## Validator Testing
+<ul>
+<li>HTML <ul style="list-style-type:circle"><li>No errors returned on W3C HTML validator</li></ul>
+</li>
+<li>CSS <ul style="list-style-type:circle"><li>No errors returned on W3C CSS validator</li></ul>
+</li>
+<li>Accessibility <ul style="list-style-type:circle"><li>On website inspection, lighthouse results are shown below</li></ul>
+</li>
+</ul>
+<img title="lighthouse" alt="lighthouse result" src="lighthouse.png";>
+
 
 ## Tools
 
@@ -38,7 +50,7 @@ online tutorials and video's and also books such as  books from Mike McGraths an
 ### TiffinTech [Youtube](https://www.youtube.com/c/TiffInTech/about)
 
 
-# Links
+# External Links
 
 ### [Wikipedia](https://en.wikipedia.org)
 ### [History.com](https://www.history.com)
